@@ -36,7 +36,7 @@ python anotar_capa_interativo.py
 
 
 ## ▶️ Uso do arquivo gerado para se fazer as marcações
-(marcar com retícula colorida e semitransparente cada chamada de acordo com a o nível selecionado.) 
+(marcar com retícula colorida e semitransparente cada chamada de acordo com o nível selecionado.) 
 
 **Controles**
 
@@ -53,7 +53,7 @@ Clique uma vez no canto superior esquerdo e mais uma vez no canto inferior direi
 A marcação é quadrangular. 
 Se fizer mais de uma marcação no mesmo local as cores ficam sobrepostas. 
 
-# Comandos importantes:
+**Comandos importantes**
 u → desfaz última marcação
 
 s → salva resultado (capa_folha_anotada.png + capa_folha_areas.json)
